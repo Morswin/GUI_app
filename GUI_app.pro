@@ -10,10 +10,12 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    pamietnikwpis.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    pamietnikwpis.h
 
 FORMS += \
     mainwindow.ui
